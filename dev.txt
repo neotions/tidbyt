@@ -1,0 +1,12 @@
+# Directory 
+cd C:\Users\jsthilaire\Documents\tidbyt
+
+# Run on tidbyt
+render_and_push.bat
+
+# Push to http://localhost:8080/
+pixlet serve hello_world.star
+
+# Notes
+
+I need to add device ID and possible fix env variables
